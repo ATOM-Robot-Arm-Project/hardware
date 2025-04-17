@@ -1,20 +1,21 @@
 # hardware
-Repositório exclusivo para arquivos físicos e técnicos
+3D printed parts, circuits, electronic components and Arduino code
 
-
+```
 ## Structure
-robotic-arm-hardware/
-├── electronics/
-│   ├── arduino/
+hardware/
+├── electronics/ # Schematics, wiring diagrams
+│   └── schematics/  
+├── arduino/ # Embedded code for microcontrollers
 │   │   ├── main.ino
 │   │   └── servo_control.ino
-│   └── schematics/           # Diagramas .pdf/.fzz/.svg
 ├── mechanics/
 │   ├── montagem.pdf
 │   └── medidas_estruturais.md
 ├── 3d-models/
 │   ├── STL/
 │   └── Fusion360/
-├── components-list.md        # Lista de peças e fornecedores
+├── components-list.md        # List of components used
 ├── README.md
 └── .gitignore
+```
