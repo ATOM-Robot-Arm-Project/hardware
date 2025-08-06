@@ -1,1 +1,5 @@
-https://www.youtube.com/watch?v=RiYnucfy_rs
+[How to Use a Flex Sensor with an Arduino](https://www.youtube.com/watch?v=_tXWoplbqWo)
+[How to Use a Force Sensor with an Arduino](https://www.youtube.com/watch?v=r7oWtcE6QQc)
+[How to Use a Photoresistor](https://www.youtube.com/watch?v=XwJQJnY6iUs)
+[How to Use a TCS3200 Color Sensor with Arduino](https://www.youtube.com/watch?v=oPFQrKC0nSg)
+[Sensor de distância ultrassônico HC-SR04 e Arduino](https://www.youtube.com/watch?v=n-gJ00GTsNg)

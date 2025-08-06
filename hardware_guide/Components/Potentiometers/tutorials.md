@@ -1,1 +1,1 @@
-https://www.youtube.com/watch?v=RiYnucfy_rs
+[How to Use a Potentiometer with Arduino analogRead](https://www.youtube.com/watch?v=Wa8CjGsOFzY)
