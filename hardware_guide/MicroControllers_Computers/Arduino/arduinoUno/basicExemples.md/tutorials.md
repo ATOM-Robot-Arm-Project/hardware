@@ -24,7 +24,7 @@ This project uses a potentiometer to control the brightness of an LED.
 6.  Connect the other outer pin to GND.
 7.  Connect the center pin to Arduino analog pin A0.
 
-![Circuit Diagram](https://www.arduino.cc/en/uploads/Tutorial/build-a-potentiometer-circuit-to-control-an-led_2.png)
+![Circuit Diagram](media/circuitDiagram.png)
 
 **Code:**
 ```cpp
